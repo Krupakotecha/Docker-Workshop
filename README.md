@@ -1,2 +1,9 @@
 # Docker-Workshop
-Based on Quantiphi Workshop
+Team Members:
+
+Henil Shah 60004160091
+
+Krupa Kotecha 60004178014
+
+
+Based on Docker Woekshop conducted by Quantiphi.
